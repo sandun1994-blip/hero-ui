@@ -32,7 +32,7 @@ const Hero = (props: Props) => {
           uppercase text-sm md:text-lg font-semibold transition 
           duration-300 ease-in-out spin-slow animate-bounce inline-block py-2 px-2 md:py-4 md:px-8  rounded-lg"
         >
-          Get Started
+          Get Code
         </a>
       </div>
     </div>
