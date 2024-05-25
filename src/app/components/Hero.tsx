@@ -30,7 +30,7 @@ const Hero = (props: Props) => {
           className="bg-white text-purple-700
          hover:bg-purple-700 hover:text-white 
           uppercase text-sm md:text-lg font-semibold transition 
-          duration-300 ease-in-out spin-slow animate-bounce inline-block py-2 px-2 md:py-4 md:px-8  rounded-lg"
+          duration-300 ease-in-out spin-slow animate-bounce inline-block py-2 px-2 md:py-2 md:px-5  rounded-lg"
         >
           Get Code
         </a>
